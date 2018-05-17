@@ -1,4 +1,5 @@
 set number
+set colorcolumn=80
 
 highlight ExtraWhitespace ctermbg=red guibg=red
 match ExtraWhitespace /\s\+$/
